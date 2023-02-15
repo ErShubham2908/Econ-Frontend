@@ -35,6 +35,7 @@ const Ipad = () => {
                     <p className='price'>{data.price}</p>  
                     <p className='oldPrice-section'>{data.oPrice}</p>
                 </div>
+                <button className='item_button'>Add To Cart</button>
             </div>)
     }
     </div>
